@@ -1,0 +1,34 @@
+_repo: In-Freedom-s-Cause---A-Story-of-Wallace-and-Bruce_4792
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_bookshelf:
+- Historical Fiction
+- Children's Fiction
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Wallace, William, Sir, d. 1305 -- Fiction'
+- !lcsh 'Robert I, King of Scots, 1274-1329 -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Scotland -- History -- Robert I, 1306-1329 -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Scotland -- History -- War of Independence, 1285-1371 -- Fiction'
+- GITenberg
+title: 'In Freedom''s Cause : A Story of Wallace and Bruce'
+url: http://www.gutenberg.org/ebooks/4792
